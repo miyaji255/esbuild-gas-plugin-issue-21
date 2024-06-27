@@ -1,0 +1,10 @@
+{
+  "name": "esbuild-gas-plugin-issue-21",
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "esbuild": "^0.21.5",
+    "esbuild-gas-plugin": "^0.8.0",
+    "typescript": "^5.5.2"
+  }
+}
